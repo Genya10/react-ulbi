@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Genya10/react-ulbi.git/static/css/main.abd64e84.css",
+    "main.js": "/Genya10/react-ulbi.git/static/js/main.e9fae73c.js",
+    "index.html": "/Genya10/react-ulbi.git/index.html",
+    "main.abd64e84.css.map": "/Genya10/react-ulbi.git/static/css/main.abd64e84.css.map",
+    "main.e9fae73c.js.map": "/Genya10/react-ulbi.git/static/js/main.e9fae73c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.e9fae73c.js"
+  ]
+}
