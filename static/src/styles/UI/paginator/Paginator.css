@@ -1,0 +1,17 @@
+
+.pageWrapper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    gap:5px;
+}
+
+.page{
+    padding: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.pageCurrent{
+    border:2px solid orange;
+    font-weight: 700;
+}
